@@ -1,10 +1,10 @@
 ---
 cff-version: 1.2.0
-message: If you use FREYA PID Graph Jupyter Notebooks in your work, please cite it
-  using the following metadata
-doi: https://doi.org/10.14454/fqq6-w751
-repository-code: https://github.com/datacite/pidgraph-notebooks-python
-title: FREYA PID Graph Jupyter Notebooks
+message: If you use FREYA PID Graph - Dissertations in your work, please cite it using
+  the following metadata
+doi: https://doi.org/10.14454/jkar-xj80
+repository-code: https://github.com/datacite/pidgraph-notebooks-python/tree/master/user-story-5-dissertations
+title: FREYA PID Graph - Dissertations
 authors:
 - given-names: Robert
   family-names: Petryszak
@@ -25,8 +25,9 @@ authors:
   family-names: Madden
   orcid: https://orcid.org/0000-0002-5432-6116
   affiliation: British Library
-abstract: Jupyter notebooks that use GraphQL to implement EC-funded FREYA Project
-  PID Graph user stories.
+abstract: 'Jupyter notebook that uses GraphQL to implement EC-funded FREYA Project
+  User Story 5: As a student using the British Library''s EThOS database, I want to
+  be able to find all dissertations on a given topic.'
 version: 1.1.1
 keywords:
 - pid graph
@@ -35,5 +36,8 @@ keywords:
 - freya
 - jupyter
 - 'FOS: Computer and information sciences'
-date-released: '2020-05-08'
-
+date-released: '2020-05-19'
+references:
+  identifiers:
+  - type: doi
+    value: 10.14454/fqq6-w751

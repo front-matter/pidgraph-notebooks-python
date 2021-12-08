@@ -1,10 +1,10 @@
 ---
 cff-version: 1.2.0
-message: If you use FREYA PID Graph Jupyter Notebooks in your work, please cite it
-  using the following metadata
-doi: https://doi.org/10.14454/fqq6-w751
-repository-code: https://github.com/datacite/pidgraph-notebooks-python
-title: FREYA PID Graph Jupyter Notebooks
+message: If you use FREYA PID Graph - Datacenter Publication Citations in your work,
+  please cite it using the following metadata
+doi: https://doi.org/10.14454/r0ed-fh20
+repository-code: https://github.com/datacite/pidgraph-notebooks-python/blob/master/user-story-1-datacenter-publication-citations
+title: FREYA PID Graph - Datacenter Publication Citations
 authors:
 - given-names: Robert
   family-names: Petryszak
@@ -25,8 +25,10 @@ authors:
   family-names: Madden
   orcid: https://orcid.org/0000-0002-5432-6116
   affiliation: British Library
-abstract: Jupyter notebooks that use GraphQL to implement EC-funded FREYA Project
-  PID Graph user stories.
+abstract: 'Jupyter notebook that uses GraphQL to implement EC-funded FREYA Project
+  User Story 1: As a data center, I want to see the citations of publications that
+  use my repository for the underlying data, so that I can demonstrate the impact
+  of our repository.'
 version: 1.1.1
 keywords:
 - pid graph
@@ -34,6 +36,12 @@ keywords:
 - graphql
 - freya
 - jupyter
+- pangaea
+- dryad
+- gbif
 - 'FOS: Computer and information sciences'
 date-released: '2020-05-08'
-
+references:
+  identifiers:
+  - type: doi
+    value: 10.14454/fqq6-w751
