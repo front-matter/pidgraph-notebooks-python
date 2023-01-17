@@ -1,0 +1,52 @@
+---
+cff-version: 1.2.0
+message: If you use FREYA PID Graph - License Types in your work, please cite it using
+  the following metadata
+doi: https://doi.org/10.14454/q7jn-xw50
+repository-code: https://github.com/datacite/pidgraph-notebooks-python/tree/master/user-story-4-open-access
+title: FREYA PID Graph - License Types
+authors:
+- given-names: Robert
+  family-names: Petryszak
+  orcid: https://orcid.org/0000-0001-6333-2182
+- given-names: Martin
+  family-names: Fenner
+  orcid: https://orcid.org/0000-0003-1419-2405
+  affiliation: DataCite
+- given-names: Simon
+  family-names: Lambert
+  orcid: https://orcid.org/0000-0001-9570-8121
+  affiliation: Science and Technology Facilities Council
+- given-names: Manuel Bernal
+  family-names: Llinares
+  orcid: https://orcid.org/0000-0002-7368-180X
+  affiliation: EMBL-EBI
+- given-names: Frances
+  family-names: Madden
+  orcid: https://orcid.org/0000-0002-5432-6116
+  affiliation: British Library
+abstract: 'Jupyter notebook that uses GraphQL to implement EC-funded FREYA Project
+  User Story 4: As a funder I want to see how many of the research outputs funded
+  by me have an open license enabling reuse, so that I am sure I properly support
+  Open Science.'
+version: 1.1.1
+keywords:
+- pid graph
+- pid
+- graphql
+- freya
+- jupyter
+- open access
+- license
+- rights
+- DFG (Deutsche Forschungsgemeinschaft, Germany)
+- ANR (Agence Nationale de la Recherche, France)
+- SNF (Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,
+  Switzerland)
+date-released: '2020-05-10'
+license: mit
+references:
+  identifiers:
+  - type: doi
+    value: 10.14454/fqq6-w751
+    
